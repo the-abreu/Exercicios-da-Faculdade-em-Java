@@ -1,0 +1,1 @@
+Olá, me chamo Renan Abreu! Neste repositório, compartilharei os exercícios realizados durante o meu 2° semestre no curso de Ciência da Computação na UNIFACS, na matéria de Programação de Soluções Computacionais! Todos os exercícios a principio serão feitos na linguagem Java!
